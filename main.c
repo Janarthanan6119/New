@@ -7,7 +7,7 @@ int main(){
   block of code
   inc/dec;
   }
-  
+
  int i=0;
  while(i<=5){//6
   printf("%d",i);//5
@@ -22,6 +22,6 @@ int main(){
   if(n==-1){
    break;
   }
-
+printf("hello");
  }
 }
